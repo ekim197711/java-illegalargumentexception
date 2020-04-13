@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="04147386-2e6a-46b1-90fa-8db44ed98615" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aV1jQeZJ9Nxm1ykShgid8Lvq6i" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.AlienVerifierDemo">
+    <configuration name="AlienVerifierDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlienVerifierDemo" />
+      <module name="java-illegalargument-exception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IllegalArgumentExceptionExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IllegalArgumentExceptionExample1" />
+      <module name="java-illegalargument-exception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MathExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MathExample1" />
+      <module name="java-illegalargument-exception" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AlienVerifierDemo" />
+        <item itemvalue="Application.MathExample1" />
+        <item itemvalue="Application.IllegalArgumentExceptionExample1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04147386-2e6a-46b1-90fa-8db44ed98615" name="Default Changelist" comment="" />
+      <created>1586806081244</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586806081244</updated>
+      <workItem from="1586806088109" duration="2779000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="724" y="176" width="667" height="688" key="#com.intellij.ide.util.MemberChooser" timestamp="1586808933356">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="724" y="176" width="667" height="688" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1586808933356" />
+    <state width="1864" height="265" key="GridCell.Tab.0.bottom" timestamp="1586809285003">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1048@0.0.1920.1048" timestamp="1586809285003" />
+    <state width="1864" height="265" key="GridCell.Tab.0.center" timestamp="1586809285001">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.0.center/0.0.1920.1048@0.0.1920.1048" timestamp="1586809285001" />
+    <state width="1864" height="265" key="GridCell.Tab.0.left" timestamp="1586809285000">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.0.left/0.0.1920.1048@0.0.1920.1048" timestamp="1586809285000" />
+    <state width="1864" height="265" key="GridCell.Tab.0.right" timestamp="1586809285002">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state width="1864" height="265" key="GridCell.Tab.0.right/0.0.1920.1048@0.0.1920.1048" timestamp="1586809285002" />
+    <state x="325" y="70" key="SettingsEditor" timestamp="1586806532820">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="325" y="70" key="SettingsEditor/0.0.1920.1048@0.0.1920.1048" timestamp="1586806532820" />
+    <state x="346" y="27" width="1218" height="987" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1586809394076">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="346" y="27" width="1218" height="987" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1048@0.0.1920.1048" timestamp="1586809394076" />
+    <state x="122" y="50" width="1665" height="941" key="new project wizard" timestamp="1586808834971">
+      <screen x="0" y="0" width="1920" height="1048" />
+    </state>
+    <state x="122" y="50" width="1665" height="941" key="new project wizard/0.0.1920.1048@0.0.1920.1048" timestamp="1586808834971" />
+  </component>
+</project>
